@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:task_1/page1.dart';
 
+// ignore: must_be_immutable
 class Page3 extends StatefulWidget {
   String? name;
   Page3({super.key, required this.name});
